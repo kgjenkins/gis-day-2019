@@ -1,5 +1,5 @@
 body {
-  font-family: 'Gentium Basic';
+  font-family: 'Gentium Basic', 'Calibri', 'Candara', 'Arial', sans-serif;
   font-weight: bold;
   background: #000;
   xbackground-size: 100%;
@@ -12,6 +12,10 @@ em, b {
   color: #0c0;
   font-style: normal;
   font-size: 125%;
+}
+
+i {
+  color: #ffff00;
 }
 
 a {
